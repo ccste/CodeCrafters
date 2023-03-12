@@ -1,4 +1,4 @@
-# Social-Loafing
+# CodeCrafters
 
 ### Declear
 * This project is created for one of the [Wintec](https://www.wintec.ac.nz/) accessment
